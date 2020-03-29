@@ -41,7 +41,7 @@ Aplicação desenvolvida com React Native e expo, consumindo a API REST (back-en
 ## :rocket: Tecnologias
 
 - [React Native](https://react-native.org)
-- [EXPO](https://expo.io/)
+- [Expo](https://expo.io/)
 - [axios](https://github.com/axios/axios)
 
 
