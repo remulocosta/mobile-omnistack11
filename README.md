@@ -34,7 +34,7 @@
 
 # Mobile App 
 
-Proposta era uma aplicação mobile para os heróis visualizar os casos e contactar suas respectivas ONGs.
+Proposta era uma aplicação mobile para os heróis visualizarem os casos e contactar suas respectivas ONGs.
 <br />
 Aplicação desenvolvida com React Native e expo, consumindo a API REST (back-end) com axios para as requisições de dados.
 
