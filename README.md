@@ -28,23 +28,27 @@
   <a href="#memo-license">License</a>
 </p>
 
+<p align="center">
+  <img alt="Frontend" src=".github/bethehero-mobile.gif" width="70%">
+</p>
+
 # Mobile App 
 
-Proposta era uma aplicação mobile, utilizando React Native, consumindo a API REST (back-end) desenvolvida no segundo dia.
-
+Proposta era uma aplicação mobile para os heróis visualizar os casos e contactar suas respectivas ONGs.
+<br />
+Aplicação desenvolvida com React Native e expo, consumindo a API REST (back-end) com axios para as requisições de dados.
 
 ## :rocket: Tecnologias
 
-Este projeto usa estas tecnologias:
-- [EXPO](https://expo.io/)
 - [React Native](https://react-native.org)
+- [EXPO](https://expo.io/)
 - [axios](https://github.com/axios/axios)
 
 
 ## Funcionalidades
 
 - Listar casos de ONGs
-- Detalhe do caso
+- Detalhe dos casos
 - Iniciar aplicação como WhatsApp ou E-mail para o contato.
 
 
